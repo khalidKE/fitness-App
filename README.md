@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_application_3
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# fitness-App
+>>>>>>> 5f72154ac620bba74fd45b5f4ab2f7c62eb1dfdb
